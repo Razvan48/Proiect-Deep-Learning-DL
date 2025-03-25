@@ -9,7 +9,7 @@ Buca Mihnea Vicentiu ($352$) <br/>
 <br/>
 <br/>
 
-### Tema Aleasa: <br/>
+### Tema Aleasa: Deep Fake Image Detection <br/>
 
 <br/>
 <br/>
