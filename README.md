@@ -4,6 +4,7 @@
 ### &emsp; Membrii Echipa: <br/>
 Capatina Razvan Nicolae ($352$) <br/>
 Buca Mihnea Vicentiu ($352$) <br/>
+Luculescu Teodor ($351$) <br/>
 
 <br/>
 <br/>
