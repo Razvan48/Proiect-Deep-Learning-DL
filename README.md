@@ -1,4 +1,4 @@
-# Proiect-Deep-Learning-DL
+# Proiect-Deep-Learning (DL)
 &emsp; Proiect Deep Learning (DL) Anul 3, Semestrul 2, Facultatea de Matematica si Informatica, Universitatea din Bucuresti
 
 ### &emsp; Membrii Echipa: <br/>
