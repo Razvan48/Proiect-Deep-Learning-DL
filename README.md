@@ -23,8 +23,7 @@ There are two main parts to this project:
 - CLIP, pretrained
 - SAM, pretrained
 
-2) 
-Model attribution. In this part we investigate whether we can identify the generative model that has produced a particular image. We formulate this task as a multiclass classification task, where the input is an image and the output is one of the five classes: “ldm”, “lama”, “pluralistic”, “repaint”, “real”. Experiment with the same methods as for the first task. Report the overall accuracy and the per class accuracy. Display a TSNE plot of the features color coded by the five classes.
+2) Model attribution. In this part we investigate whether we can identify the generative model that has produced a particular image. We formulate this task as a multiclass classification task, where the input is an image and the output is one of the five classes: “ldm”, “lama”, “pluralistic”, “repaint”, “real”. Experiment with the same methods as for the first task. Report the overall accuracy and the per class accuracy. Display a TSNE plot of the features color coded by the five classes.
 
 ### [Poster](https://www.overleaf.com/project/new/template/34882?id=991907223&latexEngine=lualatex&mainFile=poster.tex&templateName=Unofficial+Poster+Template+for+University+of+Oxford&texImage=texlive-full%3A2023.1)
 
