@@ -16,5 +16,6 @@ Luculescu Teodor ($351$) <br/>
 <br/>
 <br/>
 
-[Poster Template](https://www.overleaf.com/project/new/template/34882?id=991907223&latexEngine=lualatex&mainFile=poster.tex&templateName=Unofficial+Poster+Template+for+University+of+Oxford&texImage=texlive-full%3A2023.1)
+### [Poster](https://www.overleaf.com/project/new/template/34882?id=991907223&latexEngine=lualatex&mainFile=poster.tex&templateName=Unofficial+Poster+Template+for+University+of+Oxford&texImage=texlive-full%3A2023.1)
 
+![image](https://github.com/user-attachments/assets/f21963f5-301c-49e2-85d8-9acada101f83)
